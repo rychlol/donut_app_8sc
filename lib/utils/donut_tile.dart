@@ -88,7 +88,7 @@ Padding(
               child: Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
-                  // Ícono de favorito
+                  // Ícono de me encanta
                   IconButton(
                     onPressed: () {},
                     icon: const Icon(Icons.favorite_border),

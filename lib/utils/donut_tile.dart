@@ -61,7 +61,7 @@ Padding(
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
                   Text(
-                    donutFlavor,
+           '$donutFlavor',
                     style: const TextStyle(
                       fontSize: 18,
                       fontWeight: FontWeight.bold,
@@ -69,7 +69,7 @@ Padding(
                   ),
                   const SizedBox(height: 4),
                   const Text(
-                    "Dunkin's Store",
+                    "Dunkin's",
                     style: TextStyle(
                       fontSize: 14,
                       color: Colors.grey,
@@ -80,6 +80,8 @@ Padding(
             ),
 
             const SizedBox(height: 8),
+
+            
 
 //tarea: íconos de "me encanta" y "agregar"
 Padding(
